@@ -1,6 +1,23 @@
 # drawer_and_effective_routing_flutter
 
-A new Flutter project.
+This is a flutter app having a drawer and effective navigation to share data between the pages.<br>
+**About the app**<br>
+When you open the app you will be on the initial screen which will have a drawer having three List tile two of which will take you to the respective pages and onw will be there to close the drawer when pressed.<br>
+Things done in this app involves:-<br>
+* ListView
+* ListTile
+* UserAccountsDrawerHeader
+* Divider
+* Stateless widgets
+___
+Built in:-
+* Flutter
+___
+Some snaps from the app:-<br>
+* Full video:- <br>
+<img src="https://res.cloudinary.com/harshkumarkhatri/image/upload/v1595769544/readme%20images/drawer%20and%20effective%20routing/Screenshot_from_2020-07-26_18-47-44_wexz6l.png" height=400>
+<img src="https://res.cloudinary.com/harshkumarkhatri/image/upload/v1595769544/readme%20images/drawer%20and%20effective%20routing/Screenshot_from_2020-07-26_18-47-13_kwhoja.png" height=400>
+<img src="https://res.cloudinary.com/harshkumarkhatri/image/upload/v1595769544/readme%20images/drawer%20and%20effective%20routing/Screenshot_from_2020-07-26_18-47-26_sfgchv.png" height=400>
 
 ## Getting Started
 
